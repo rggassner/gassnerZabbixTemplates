@@ -7,9 +7,11 @@ Tested with object ID SNMPv2-SMI::enterprises.25053.3.1.11.1
 
 ##  Items:
 
-Total Access Points
-Total Rx/Tx Bytes
-Total Users
+-Total Access Points
+
+-Total Rx/Tx Bytes
+
+-Total Users
 
 Low Level Discovery LLD for Access Points and SSIDS. Non normalized user count indexed by Group, Description and Access point name, to be used with Grafana.
 
