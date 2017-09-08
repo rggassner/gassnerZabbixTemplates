@@ -1,11 +1,11 @@
-#Ruckus Zone Director - SmartZone
+# Ruckus Zone Director - SmartZone
 
 Tested with Zabbix 3.2.7
 Ruckus Zone Director SmartZone Template. 
 Tested with object ID SNMPv2-SMI::enterprises.25053.3.1.11.1
 .1.3.6.1.4.1.25053.3.1.11.1
 
-##Items:
+##  Items:
 
 Total Access Points
 Total Rx/Tx Bytes
@@ -13,7 +13,7 @@ Total Users
 
 Low Level Discovery LLD for Access Points and SSIDS. Non normalized user count indexed by Group, Description and Access point name, to be used with Grafana.
 
-##Access Points LLD:
+## Access Points LLD:
 
 Auth Clients
 Count
@@ -31,7 +31,7 @@ Serial
 Status
 Uptime
 
-##SSID LLD:
+## SSID LLD:
 
 Clients
 Name
