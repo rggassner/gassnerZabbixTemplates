@@ -15,27 +15,44 @@ Low Level Discovery LLD for Access Points and SSIDS. Non normalized user count i
 
 ## Access Points LLD:
 
-Auth Clients
-Count
-Description
-External IP
-External Port
-Firmware Version
-Group
-IP
-IP Type
-Location
-Model
-Name
-Serial
-Status
-Uptime
+-Auth Clients
+
+-Count
+
+-Description
+
+-External IP
+
+-External Port
+
+-Firmware Version
+
+-Group
+
+-IP
+
+-IP Type
+
+-Location
+
+-Model
+
+-Name
+
+-Serial
+
+-Status
+
+-Uptime
 
 ## SSID LLD:
 
-Clients
-Name
-Rx Bytes
-Tx Bytes
+-Clients
+
+-Name
+
+-Rx Bytes
+
+-Tx Bytes
 
 
