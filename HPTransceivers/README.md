@@ -1,4 +1,4 @@
-#HP transceivers LLD monitoring (gbic DDM DDMI DOM)
+# HP transceivers LLD monitoring (gbic DDM DDMI DOM)
 
 Low Level Discovery (LLD) for HP transceivers (switches) monitoring (gbic DDM DDMI DOM).
 
